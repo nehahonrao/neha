@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **React** and **Node.Js**
 
-- 📝 My LinkedIn Profile [linkedin.com/in/neha-honrao-386ba8ba](linkedin.com/in/neha-honrao-386ba8ba)
+- 📝 My LinkedIn Profile [https://www.linkedin.com/in/neha-honrao-386ba8ba/](https://www.linkedin.com/in/neha-honrao-386ba8ba/)
 
 - 📫 How to reach me **nehalonkar27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/neha-honrao-386ba8ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="NehaHonrao" height="50" width="60" /></a>
+<a href="https://www.linkedin.com/in/neha-honrao-386ba8ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="NehaHonrao" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
